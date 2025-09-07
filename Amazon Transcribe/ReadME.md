@@ -1,5 +1,7 @@
 # Transcribe Audio Files with AI
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/24.png?raw=true)
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-ai-transcribe)
 
 **Author:** Nchindo Boris  
